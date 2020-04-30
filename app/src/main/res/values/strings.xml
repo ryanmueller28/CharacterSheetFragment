@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CharacterSheetFragment</string>
+    <string name="system_name">Dungeons and Dragons 5th Edition</string>
+    <string name="about_text">Dungeons and Dragons 5th Edition is the latest
+    in the world\'s most popular Roleplaying Game designed originally by
+    Gary Gygax and Dave Arneson in 1972.</string>
+
+    <string name="action_share">Share</string>
+    <string name="create_character_hint">Create Character</string>
+    <string name="create_character_title">Create Character</string>
+
+    <string name="home_tab">Home</string>
+    <string name="classes_tab">Classes</string>
+    <string name="races_tab">Races</string>
+
+    <string-array name="classes">
+        <item>Barbarian</item>
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Druid</item>
+        <item>Fighter</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Ranger</item>
+        <item>Rogue</item>
+        <item>Sorcerer</item>
+        <item>Warlock</item>
+        <item>Wizard</item>
+    </string-array>
+
+    <string-array name="races">
+        <item>Aasimar</item>
+        <item>Dragonborn</item>
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Firbolg</item>
+        <item>Gnome</item>
+        <item>Goliath</item>
+        <item>Halfling</item>
+        <item>Half-Elf</item>
+        <item>Half-Orc</item>
+        <item>Kenku</item>
+        <item>Lizardfolk</item>
+        <item>Tabaxi</item>
+        <item>Tiefling</item>
+        <item>Triton</item>
+    </string-array>
+
+</resources>
