@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">CharacterSheetFragment</string>
     <string name="system_name">Dungeons and Dragons 5th Edition</string>
+
     <string name="about_text">Dungeons and Dragons 5th Edition is the latest
     in the world\'s most popular Roleplaying Game designed originally by
     Gary Gygax and Dave Arneson in 1972.</string>
