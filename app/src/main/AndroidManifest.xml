@@ -9,12 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ClassDetailActivity"
-            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".RaceDetailActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ClassDetailActivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".CreateCharacter"
             android:label="@string/create_character_title"
-            android:parentActivityName=".MainActivity"></activity>
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
