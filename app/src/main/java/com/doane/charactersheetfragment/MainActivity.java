@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item){
         switch (item.getItemId()){
-            case R.id.action_create_order:
+            case R.id.action_create_character:
                 Intent intent = new Intent(this, CreateCharacter.class);
                 startActivity(intent);
                 return true;
